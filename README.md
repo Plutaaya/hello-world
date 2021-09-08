@@ -1,3 +1,5 @@
 # hello-world
 My first repository
-Iam interested in WEB, IOS and ANDROID developing
+
+Hello Human!
+It is Philip here; interested in WEB, IOS and ANDROID developing.
